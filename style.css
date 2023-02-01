@@ -1,0 +1,26 @@
+
+table {
+	width: 700px;
+	border-collapse: collapse;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+
+td, th {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+
+}
+
+th {
+	text-align: left;
+    background-color: rgba(1, 50, 248, 0.35);
+}
+
+@page {
+    size: Letter;
+    margin: 0.5in;
+
+}
+
